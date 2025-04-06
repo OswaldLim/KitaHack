@@ -1,4 +1,4 @@
-# KitaHack4
+# KitaHack
 
 Setup
 - run the code in your terminal: pip install -r requirements.txt
