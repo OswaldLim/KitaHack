@@ -7,3 +7,6 @@ Setup
 - ConverterScript.py is used to convert the .keras file to a tensorflowlite file. (Only use if a new model is trained from scratch)
 - ModelEvaluation.py is used to evaluate the precision and accuracy of the model and is used to test outputs for single image inputs
 - WithCamera.py is used to open a webcam on your device for image classiffication
+DataAnalysis.py setup:
+- set GOOGLE_API_KEY=YOUR_API_KEY in cmd
+- pip install google-generativeai python-dotenv       
